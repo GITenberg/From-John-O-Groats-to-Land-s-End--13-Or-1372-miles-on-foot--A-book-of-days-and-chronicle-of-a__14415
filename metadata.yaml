@@ -1,0 +1,31 @@
+_repo: From-John-O-Groats-to-Land-s-End--13-Or-1372-miles-on-foot--A-book-of-days-and-chronicle-of-a__14415
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Naylor, John Anderton
+    gutenberg_agent_id: '5511'
+    url: http://www.gutenberg.org/2009/agents/5511
+  - agent_name: Naylor, Robert Anderton
+    gutenberg_agent_id: '5510'
+    url: http://www.gutenberg.org/2009/agents/5510
+description: ''
+gutenberg_issued: '2004-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naylor, John Anderton -- Diaries'
+- !lcsh 'Travelers -- Great Britain -- Diaries'
+- !lcsh 'Naylor, Robert Anderton -- Diaries'
+- !lcsh 'Great Britain -- Description and travel'
+- !lcc 'DA'
+title: "From John O'Groats to Land's End\r\nOr, 1372 miles on foot; A book of days\
+  \ and chronicle of adventures by two pedestrians on tour"
+url: http://www.gutenberg.org/ebooks/14415
